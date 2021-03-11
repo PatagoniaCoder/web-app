@@ -1,0 +1,9 @@
+@import "./colors.scss";
+body {
+  background-color: $light;
+  margin-right: 20px !important;
+}
+
+.clickeable {
+  cursor: pointer !important;
+}

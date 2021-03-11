@@ -1,0 +1,11 @@
+@import "../../../../styles/colors.scss";
+
+.sidebar {
+  //  background-color: $secondary;
+  .card {
+    background-color: $secondary;
+  }
+  .col {
+    padding: 0px;
+  }
+}

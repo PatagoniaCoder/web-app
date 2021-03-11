@@ -1,0 +1,11 @@
+@import "../../../../styles/colors.scss";
+.navbar {
+  .col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  img {
+    padding: 5px;
+  }
+}
